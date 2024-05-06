@@ -1,0 +1,27 @@
+.card {
+    width: 18.75rem;
+    border-radius: 2.25rem;
+}
+
+.icon i {
+    width: 1.875rem;
+    height: 1.875rem;
+    border-radius: 50%;
+    background: #15c915;
+    margin-left: 1.5625rem;
+    margin-bottom: .875rem;
+    padding: .4688rem;
+    color: rgb(255, 255, 255);
+}
+
+p {
+    margin-left: 1.25rem;
+    font-size: .625rem;
+    text-align: left;
+}
+
+h5 {
+    text-align: left;
+    margin-left: 1.25rem;
+    font-size: 1.0rem;
+}
