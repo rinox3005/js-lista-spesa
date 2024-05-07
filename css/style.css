@@ -1,7 +1,11 @@
+/* contenitore lista card */
+
 .card {
     width: 18.75rem;
     border-radius: 2.25rem;
 }
+
+/* icona */
 
 .icon i {
     width: 1.875rem;
@@ -14,11 +18,7 @@
     color: rgb(255, 255, 255);
 }
 
-p {
-    margin-left: 1.25rem;
-    font-size: .625rem;
-    text-align: left;
-}
+/* prodotto */
 
 h5 {
     text-align: left;
